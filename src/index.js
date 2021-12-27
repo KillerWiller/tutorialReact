@@ -16,6 +16,7 @@ function Encabezado(props){
 
 function Contenedor(){
   return <Encabezado titulo="Este es el titulo de mi pagina REACT"/>
+  
 }
 
 
